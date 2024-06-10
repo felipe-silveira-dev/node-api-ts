@@ -1,1 +1,1 @@
-ts-node-dev
+Um estudo sobre api com node, express e typescript
